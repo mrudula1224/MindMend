@@ -1,5 +1,5 @@
 # 🧠 Mental Health Support Agent
-
+![App Screenshot](frontend.png)
 A simple and calming web-based chatbot designed to provide mental wellness support through positive affirmations and guided meditations.
 
 ## 💡 Features
